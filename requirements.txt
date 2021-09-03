@@ -1,0 +1,26 @@
+This was created using Python 3.9.2.
+
+----------------------
+- MODULES USED:
+----------------------
+- requests
+- re
+- bs4 [Will require install]
+- json
+- os
+
+----------------------
+- INSTALLATION:
+----------------------
+
+If you do not have BeautifulSoup installed, please open a command prompt and type the following:
+
+python -m pip install bs4
+
+----------------------
+- USAGE:
+----------------------
+1. Open the Python file in IDLE
+2. Press F5 to run the the __main__ function
+3. It will generate an output folder with all JSON files
+4. It will also display all visible hyperlinks in order
